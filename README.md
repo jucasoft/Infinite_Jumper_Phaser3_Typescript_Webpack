@@ -1,6 +1,6 @@
-# Phaser 3 TypeScript webpack Project Template
+# Infinite_Jumper_Phaser3_Typescript_Webpack
 
-This quick-start project template combines Phaser 3 with [TypeScript](https://www.typescriptlang.org/) and uses [webpack](https://webpack.js.org/) for bundling.
+"Infinite Jumper in Phaser 3" in typescript + webpack, download the book for free https://ourcade.co/books/infinite-jumper-phaser3
 
 ## Requirements
 
@@ -17,7 +17,7 @@ This quick-start project template combines Phaser 3 with [TypeScript](https://ww
 ## Writing Code
 
 After cloning the repo, run `npm install` from your project directory. Then, you can start the local development
-server by running `npm run watch`. The first time you run this you should see the following demo run:
+server by running `npm run start`. The first time you run this you should see the following demo run:
 
 ![Screenshot](screenshot.png "Phaser 3 Example")
 

@@ -1,7 +1,7 @@
 {
-  "name": "phaser3-typescript-webpack-project-template",
+  "name": "infinite-jumper-phaser3-typescript-webpack",
   "version": "1.0.0",
-  "description": "Quick-start project template combines Phaser 3, TypeScript and webpack",
+  "description": "\"Infinite Jumper in Phaser 3\" in typescript + webpack, download the book for free https://ourcade.co/books/infinite-jumper-phaser3",
   "private": true,
   "scripts": {
     "start": "webpack-dev-server --open --config webpack.dev.js",
@@ -15,7 +15,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jucasoft/phaser3-typescript-webpack-project-template.git"
+    "url": "git+https://github.com/jucasoft/Infinite_Jumper_Phaser3_Typescript_Webpack.git"
   },
   "author": "Lo Re <juca@jucasoft.com> (http://www.jucasoft.com)",
   "license": "MIT",
